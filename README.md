@@ -14,7 +14,6 @@ Bookstore is a full-stack web application built using the MERN stack. This proje
 
 * ### State Management : Redux-Toolkit
 
-* ### Deployment : Vercel (Frontend),Render (Backend)
 
 ## Features
 
